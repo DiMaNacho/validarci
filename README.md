@@ -48,4 +48,5 @@ Ej.: C.I.: 1.234.567-X -> X = [(1×8)+(2×1)+(3×2)+(4×3)+(5×4)+(6×7)+(7×6)]
 
 
 Creador: *DiMaNacho* - [oBrusly! kung-Fu Digital](http://obrusly.com)
+
 Créditos a *nprieto23* (código original del algoritmo para JS): [Algoritmo en JavaScript para validar el Documento de identidad Uruguayo](http://bit.ly/1CKYjKI)
